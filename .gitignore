@@ -25,3 +25,5 @@ hs_err_pid*
 *.java
 *.interp
 *.tokens
+
+/hw/regexhw1.txt
