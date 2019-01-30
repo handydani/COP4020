@@ -1,4 +1,4 @@
-# Lecture 
+# Lecture Notes
 
 ## Abstract Syntax Trees
 - 1+2*3
